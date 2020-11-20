@@ -19,3 +19,5 @@
 - [слайды](https://github.com/CROC-Java-School-2020-Irkutsk/lessons/blob/main/slides/%D0%97%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%204), домашнее задание отдельным файлом.
 ## Занятие 5
 - [слайды](https://github.com/CROC-Java-School-2020-Irkutsk/lessons/blob/main/slides/%20%D0%97%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%205.pptx), домашнее задание на последнем слайде.
+## Занятие 6
+- [слайды](https://github.com/CROC-Java-School-2020-Irkutsk/lessons/blob/main/slides/%D0%97%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%206.pptx).
