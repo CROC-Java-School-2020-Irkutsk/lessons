@@ -1,0 +1,13 @@
+{
+  "id": 111 ,
+  "name":"Microsoft",
+  "websites": [
+    "http://microsoft.com",
+    "http://msn.com",
+    "http://hotmail.com"
+  ],
+  "address":{
+    "street":"1 Microsoft Way",
+    "city":"Redmond"
+  }
+}
