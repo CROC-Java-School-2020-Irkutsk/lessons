@@ -21,6 +21,8 @@
 - [слайды](https://github.com/CROC-Java-School-2020-Irkutsk/lessons/blob/main/slides/%20%D0%97%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%205.pptx), домашнее задание на последнем слайде.
 ## Занятие 6
 - [слайды](https://github.com/CROC-Java-School-2020-Irkutsk/lessons/blob/main/slides/%D0%97%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%206.pptx), [код](https://github.com/CROC-Java-School-2020-Irkutsk/lessons/tree/main/src/ru/croc/java2020/lesson06) программ с занятия
+## Занятие 7
+- [слайды](https://github.com/CROC-Java-School-2020-Irkutsk/lessons/blob/main/slides/%D0%97%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%207.pptx), [код](https://github.com/CROC-Java-School-2020-Irkutsk/lessons/tree/main/src/ru/croc/java2020/lesson07) программ с занятия
 
 ## Итоговое ДЗ
 - [файл с ДЗ](https://github.com/CROC-Java-School-2020-Irkutsk/lessons/blob/main/%D0%98%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D0%B5%20%D0%94%D0%97.docx)
