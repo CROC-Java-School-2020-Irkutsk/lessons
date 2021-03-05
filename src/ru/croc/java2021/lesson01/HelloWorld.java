@@ -1,4 +1,4 @@
-package ru.croc.java2020.lesson01;
+package ru.croc.java2021.lesson01;
 
 import java.lang.System;
 
