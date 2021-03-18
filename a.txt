@@ -1,0 +1,5 @@
+Базовый класс для всех потоков ввода данных (на чтение).
+int read() throws IOException;
+int read(byte[] b) throws IOException;
+int read(byte[] b, int off, int len) throws IOException;
+result == -1 => end of stream
