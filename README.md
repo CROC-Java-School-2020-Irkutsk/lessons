@@ -24,4 +24,8 @@
 ## Занятие 5
 - [слайды](https://github.com/CROC-Java-School-2020-Irkutsk/lessons/blob/main/slides/%D0%97%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%205.pptx), домашнее задание на последнем слайде.
 - [Matcher](https://github.com/CROC-Java-School-2020-Irkutsk/lessons/blob/main/src/ru/croc/java2021/lesson05), анализатор строки для домашнего задания и пример его использования.
+
+## Занятие 6
+- [слайды](https://github.com/CROC-Java-School-2020-Irkutsk/lessons/blob/main/slides/%D0%97%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%206.pptx), домашнее задание на последнем слайде.
+- [код](https://github.com/CROC-Java-School-2020-Irkutsk/lessons/tree/main/src/ru/croc/java2021/lesson06) с примерами по последнему занятию
  
