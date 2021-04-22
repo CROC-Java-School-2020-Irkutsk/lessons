@@ -35,4 +35,9 @@
 ## Занятие 8
 - [слайды](https://github.com/CROC-Java-School-2020-Irkutsk/lessons/blob/main/slides/%D0%97%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%208.pptx)
 - [код](https://github.com/CROC-Java-School-2020-Irkutsk/lessons/tree/main/src/ru/croc/java2021/lesson08) пример с лекции
+
+## Занятие 9
+- [слайды 1](https://github.com/CROC-Java-School-2020-Irkutsk/lessons/blob/main/slides/Database%20Connectivity%201.pptx)
+- [слайды 2](https://github.com/CROC-Java-School-2020-Irkutsk/lessons/blob/main/slides/Database%20Connectivity%202.pptx)
+- [код](https://github.com/CROC-Java-School-2020-Irkutsk/lessons/tree/main/src/ru/croc/java2021/lesson09) пример с лекции
  
